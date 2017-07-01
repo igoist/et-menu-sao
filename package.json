@@ -1,0 +1,24 @@
+{
+  "name": "ET-menu-sao",
+  "version": "0.0.1",
+  "description": "look forward future Web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igoist/et-menu-sao.git"
+  },
+  "keywords": [
+    "igoist",
+    "et",
+    "sao"
+  ],
+  "author": "天痕˚",
+  "license": "MMMM",
+  "bugs": {
+    "url": "https://github.com/igoist/et-menu-sao/issues"
+  },
+  "homepage": "https://github.com/igoist/et-menu-sao"
+}
